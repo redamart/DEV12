@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\dev\hh\dev\birchengine - textures\birchengine\src\map.h(36): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\dev\hh\dev\birchengine - textures\birchengine\src\game.cpp(51): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BirchEngine.vcxproj -> C:\Dev\hh\Dev\BirchEngine - Textures\bin\Win32\Debug\BirchEngine.exe
